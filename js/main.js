@@ -5,5 +5,5 @@ function getCurrentTab() {
 }
 
 function openToma(tab) {
-       chrome.tabs.create({url:"https://toma.ht:/#/?url="+tab[0].url});
+    chrome.tabs.create({url:"https://toma.ht:/#/?url="+tab[0].url});
 }
