@@ -18,4 +18,3 @@ function do_action(info, tab){
     });
 
 }
-
